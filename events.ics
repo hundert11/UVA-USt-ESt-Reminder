@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//ical.marudot.com//iCal Event Maker
-X-WR-CALNAME:hundertelf Reminder
-NAME:hundertelf Reminder
+X-WR-CALNAME:hundert11 Reminder
+NAME:hundert11 Reminder
 CALSCALE:GREGORIAN
 BEGIN:VTIMEZONE
 TZID:Europe/Berlin
@@ -31,7 +31,7 @@ DTSTART;VALUE=DATE:20221005
 RRULE:FREQ=MONTHLY;INTERVAL=3;BYMONTHDAY=5
 DTEND;VALUE=DATE:20221006
 SUMMARY:USt zahlen + USt-Voranmeldung FinanzOnline einreichen
-URL:https://github.com/hundertelf
+URL:https://github.com/hundert11
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:USt zahlen + USt-Voranmeldung FinanzOnline einreichen
@@ -45,7 +45,7 @@ DTSTART;VALUE=DATE:20230212
 RRULE:FREQ=YEARLY;BYMONTH=2;BYMONTHDAY=12
 DTEND;VALUE=DATE:20230213
 SUMMARY:USt- & ESt-Erklärung fürs Vorjahr
-URL:https://github.com/hundertelf
+URL:https://github.com/hundert11
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:USt- & ESt-Erklärung fürs Vorjahr
